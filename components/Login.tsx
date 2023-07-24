@@ -16,7 +16,7 @@ const Login = () => {
                 className="text-white font-bold text-3xl animate-pulse"
                 onClick={() => signIn('google')}
             >
-                Sign in to use ChatGPT
+                Sign in with Google to use ChatGPT
             </button>
         </div>
     );
